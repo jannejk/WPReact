@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/WPReact/static/css/main.1a480efa.chunk.css",
+    "main.js": "/github.io/WPReact/static/js/main.f7920151.chunk.js",
+    "main.js.map": "/github.io/WPReact/static/js/main.f7920151.chunk.js.map",
+    "runtime-main.js": "/github.io/WPReact/static/js/runtime-main.780d5f80.js",
+    "runtime-main.js.map": "/github.io/WPReact/static/js/runtime-main.780d5f80.js.map",
+    "static/js/2.df6e22bb.chunk.js": "/github.io/WPReact/static/js/2.df6e22bb.chunk.js",
+    "static/js/2.df6e22bb.chunk.js.map": "/github.io/WPReact/static/js/2.df6e22bb.chunk.js.map",
+    "index.html": "/github.io/WPReact/index.html",
+    "precache-manifest.ca3aa95b3a416faa2f95cce1d6af53d4.js": "/github.io/WPReact/precache-manifest.ca3aa95b3a416faa2f95cce1d6af53d4.js",
+    "service-worker.js": "/github.io/WPReact/service-worker.js",
+    "static/css/main.1a480efa.chunk.css.map": "/github.io/WPReact/static/css/main.1a480efa.chunk.css.map",
+    "static/js/2.df6e22bb.chunk.js.LICENSE.txt": "/github.io/WPReact/static/js/2.df6e22bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.780d5f80.js",
+    "static/js/2.df6e22bb.chunk.js",
+    "static/css/main.1a480efa.chunk.css",
+    "static/js/main.f7920151.chunk.js"
+  ]
+}
